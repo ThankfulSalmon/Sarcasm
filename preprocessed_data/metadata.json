@@ -1,0 +1,7 @@
+{
+  "total_samples": 10,
+  "successful": 10,
+  "failed": 0,
+  "video_dir": "processed_russian_speech_dataset\\video_with_audio",
+  "audio_dir": "processed_russian_speech_dataset\\audio_only"
+}

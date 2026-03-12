@@ -1,0 +1,11 @@
+index,video_filename,video_path,audio_path,has_error
+0,video-1.mp4,processed_russian_speech_dataset\video_with_audio\video-1.mp4,processed_russian_speech_dataset\audio_only\video-1.wav,False
+1,video-2.mp4,processed_russian_speech_dataset\video_with_audio\video-2.mp4,processed_russian_speech_dataset\audio_only\video-2.wav,False
+2,video-3.mp4,processed_russian_speech_dataset\video_with_audio\video-3.mp4,processed_russian_speech_dataset\audio_only\video-3.wav,False
+3,video-4.mp4,processed_russian_speech_dataset\video_with_audio\video-4.mp4,processed_russian_speech_dataset\audio_only\video-4.wav,False
+4,video-5.mp4,processed_russian_speech_dataset\video_with_audio\video-5.mp4,processed_russian_speech_dataset\audio_only\video-5.wav,False
+5,video-6.mp4,processed_russian_speech_dataset\video_with_audio\video-6.mp4,processed_russian_speech_dataset\audio_only\video-6.wav,False
+6,video-7.mp4,processed_russian_speech_dataset\video_with_audio\video-7.mp4,processed_russian_speech_dataset\audio_only\video-7.wav,False
+7,video-8.mp4,processed_russian_speech_dataset\video_with_audio\video-8.mp4,processed_russian_speech_dataset\audio_only\video-8.wav,False
+8,video-9.mp4,processed_russian_speech_dataset\video_with_audio\video-9.mp4,processed_russian_speech_dataset\audio_only\video-9.wav,False
+9,video-10.mp4,processed_russian_speech_dataset\video_with_audio\video-10.mp4,processed_russian_speech_dataset\audio_only\video-10.wav,False
